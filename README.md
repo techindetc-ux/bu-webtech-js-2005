@@ -1,0 +1,2 @@
+- Nickname: Pec
+- Favorite: KFC
